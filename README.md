@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitNiko99
+- 👋 Hi, I’m @gitNico99
 - 👀 I’m interested in programming and 3D modeling.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on new proyects.
